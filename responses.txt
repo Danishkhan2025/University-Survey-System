@@ -1,0 +1,8 @@
+Name: 
+Survey Category: University Transport
+1. How punctual are the buses? ff
+2. Are the buses clean and well-maintained? dd
+3. Do you feel safe while using transport? dd
+4. Is the bus route convenient? d
+5. Suggestions for improvement: dee
+---------------------------------------------
